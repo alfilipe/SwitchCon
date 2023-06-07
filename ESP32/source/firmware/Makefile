@@ -3,6 +3,6 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := OpenSwitchPad
+PROJECT_NAME := OpenSwitchCon
 
 include $(IDF_PATH)/make/project.mk
